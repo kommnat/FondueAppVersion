@@ -4,7 +4,7 @@
     "title_th":"มีอัปเดตใหม่",
     "title_en":"New update",
     "version":"1.4.5",
-    "force_update":false,
+    "force_update":0,
     "detail_th": "โปรดอัปเดตแอป เพื่อเพิ่มประสิทธิภาพการใช้งาน",
     "detail_en": "Please update the app for better performance."
 }
