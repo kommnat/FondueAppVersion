@@ -1,10 +1,10 @@
 
 {
     "name": "ProjectFondue",
-    "title_th":"อัพเดทใหม่",
-    "title_en":"New Update",
+    "title_th":"มีอัปเดตใหม่",
+    "title_en":"New update",
     "version":"1.4.5",
     "force_update":false,
-    "detail_th": "โปรดอัพเดต App เพื่อเพิ่มประสิทธิภาพในการใช้งาน",
-    "detail_en": "Please update the App for better performance."
+    "detail_th": "โปรดอัปเดตแอป เพื่อเพิ่มประสิทธิภาพการใช้งาน",
+    "detail_en": "Please update the app for better performance."
 }
